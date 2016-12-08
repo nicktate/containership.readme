@@ -9,6 +9,6 @@
        * [plugin](client/plugin.md)
        * [machine](client/machine.md)
        * [app](client/app.md)
-       * backup
+       * [backup](client/backup.md)
        * update
 
