@@ -2,5 +2,5 @@
 
 * [My Awesome API](README.md)
 * [Defining Methods](methods.md)
-* Test
+* [Test](test.md)
 
