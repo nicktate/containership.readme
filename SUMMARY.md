@@ -2,7 +2,7 @@
 
 * [1. Overview](README.md)
    * [1.1 What is Containership](what_is_containership.md)
-* [CLI](client/README.md)
+* [2. CLI](client/README.md)
    * [Installation](client/installation.md)
    * [Commands](client/commands.md)
        * [configure](client/configure.md)
