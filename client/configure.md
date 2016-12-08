@@ -26,4 +26,3 @@ This will update your `~/.containership/cli-config.json` file to have the follow
   "api-url": "http://localhost:8080"
 }
 ```
-
