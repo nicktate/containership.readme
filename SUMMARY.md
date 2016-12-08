@@ -6,7 +6,7 @@
    * [Installation](client/installation.md)
    * [Commands](client/commands.md)
        * [configure](client/configure.md)
-       * plugin
+       * [plugin](client/plugin.md)
        * machine
        * app
        * backup
