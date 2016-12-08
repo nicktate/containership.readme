@@ -9,6 +9,6 @@
        * [2.2.2. plugin](client/plugin.md)
        * [2.2.3. machine](client/machine.md)
        * [2.2.4. app](client/app.md)
-       * [backup](client/backup.md)
+       * [2.2.5. backup](client/backup.md)
        * [update](client/update.md)
 
