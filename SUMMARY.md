@@ -7,7 +7,7 @@
    * [Commands](client/commands.md)
        * [configure](client/configure.md)
        * [plugin](client/plugin.md)
-       * machine
+       * [machine](client/machine.md)
        * app
        * backup
        * update
