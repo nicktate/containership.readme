@@ -10,4 +10,5 @@
        * machine
        * app
        * backup
+       * update
 
