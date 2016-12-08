@@ -1,7 +1,7 @@
 # Summary
 
 * [1. Overview](README.md)
-   * [1.1 What is Containership](what_is_containership.md)
+   * [1.1. What is Containership](what_is_containership.md)
 * [2. CLI](client/README.md)
    * [2.1. Installation](client/installation.md)
    * [2.2. Commands](client/commands.md)
