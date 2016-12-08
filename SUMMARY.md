@@ -10,5 +10,5 @@
        * [machine](client/machine.md)
        * [app](client/app.md)
        * [backup](client/backup.md)
-       * update
+       * [update](client/update.md)
 
