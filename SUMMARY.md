@@ -1,6 +1,6 @@
 # Summary
 
-* [What is Containership Cloud](README.md)
+* [What is Containership](README.md)
 * [Defining Methods](methods.md)
 * [Test](test.md)
    * [1.1](11.md)
