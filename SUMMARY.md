@@ -10,5 +10,5 @@
        * [2.2.3. machine](client/machine.md)
        * [2.2.4. app](client/app.md)
        * [2.2.5. backup](client/backup.md)
-       * [update](client/update.md)
+       * [2.2.6. update](client/update.md)
 
