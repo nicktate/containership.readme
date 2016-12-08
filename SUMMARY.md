@@ -8,7 +8,7 @@
        * [configure](client/configure.md)
        * [plugin](client/plugin.md)
        * [machine](client/machine.md)
-       * app
+       * [app](client/app.md)
        * backup
        * update
 
