@@ -5,4 +5,5 @@
 * [CLI](client/README.md)
    * [Installation](client/installation.md)
    * [Commands](client/commands.md)
+       * configure
 
