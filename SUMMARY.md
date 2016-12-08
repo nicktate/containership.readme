@@ -8,4 +8,5 @@
        * configure
        * plugin
        * machine
+       * app
 
