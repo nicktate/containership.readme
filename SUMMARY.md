@@ -5,7 +5,7 @@
 * [CLI](client/README.md)
    * [Installation](client/installation.md)
    * [Commands](client/commands.md)
-       * configure
+       * [configure](client/configure.md)
        * plugin
        * machine
        * app
