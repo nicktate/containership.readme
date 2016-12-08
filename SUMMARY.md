@@ -7,4 +7,5 @@
    * [Commands](client/commands.md)
        * configure
        * plugin
+       * machine
 
