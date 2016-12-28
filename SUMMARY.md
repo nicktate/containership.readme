@@ -1,11 +1,11 @@
 # Summary
 
 * [1. Overview](README.md)
-    * [1.1. What is Containership](what_is_containership.md)
-* [2. CLI](client/README.md)
-    * [2.1. Installation](client/installation.md)
-    * [2.2. Commands](client/commands.md)
-        * [2.2.1. configure](client/configure.md)
+    * [What is Containership](what_is_containership.md)
+* [CLI](client/README.md)
+    * [Installation](client/installation.md)
+    * [Commands](client/commands.md)
+        * [configure](client/configure.md)
         * [2.2.2. configure set](client/222-configure-set.md)
         * [2.2.2. configure use](client/222-configure-use.md)
         * [2.2.2. cloud](client/222-cloud.md)
