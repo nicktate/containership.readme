@@ -16,14 +16,18 @@ The `containership configure` command configures your client for communication w
 ## Examples
 
 ```
-containership configure --api-url="http://localhost:8080"
+containership configure set mycluster --api-url="http://localhost:8080"
 ```
 
-This will update your `~/.containership/cli-config.json` file to have the following:
+This will update your `~/.containership/cli-config.json` file to have the following cluster configuration:
 
 ```
 {
-  "api-url": "http://localhost:8080"
+  "clusters": {
+    "mycluster": {
+      "api-url": "http://localhost:8080"
+    }
+  } 
 }
 ```
 
