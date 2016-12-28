@@ -19,6 +19,7 @@ This will display your `~/.containership/cli-config-v2.json` file::
 ```
 {
   "plugin-location": "~/.containership/plugins",
+  "activeCluster": "mycluster",
   "clusters": {
     "mycluster": {
       "api-url": "http://localhost:8080"
