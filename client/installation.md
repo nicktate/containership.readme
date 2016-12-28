@@ -1,6 +1,6 @@
 # Installation
 
-Containership offers a CLI build for MacOS X and Ubuntu
+Containership offers a CLI build for MacOS X
 
 ### Mac OS X
 
