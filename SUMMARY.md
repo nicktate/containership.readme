@@ -8,7 +8,7 @@
         * [2.2.1. configure](client/configure.md)
         * [2.2.2. cloud](client/222-cloud.md)
         * [2.2.3. app](client/app.md)
-        * 2.2.4. host
+        * [2.2.4. host](client/224-host.md)
         * [2.2.5. plugin](client/plugin.md)
         * [2.2.6. machine](client/machine.md)
         * [2.2.7. backup](client/backup.md)
