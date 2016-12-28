@@ -11,7 +11,10 @@ npm install containership.cli -g
 ### From Source
 
 ```
-...
+git clone git@github.com:containership/containership.cli
+cd containership.cli
+npm install
+./bin/cli.js <command>
 ```
 
 # Configuration
