@@ -3,7 +3,7 @@
 ```
 Usage: containership configure <command> [OPTIONS]
 
-Create a new container
+Configure your client to connect with ContainerShip clusters.
 
           --api-url                       Cluster API Url to connect to
           --api-version                   Version of the core API the cluster is running
