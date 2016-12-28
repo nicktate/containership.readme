@@ -5,7 +5,7 @@ Containership offers a CLI build for MacOS X and Ubuntu
 ### Mac OS X
 
 ```
-brew install containership
+npm install containership.cli -g
 ```
 
 ### From Source
@@ -22,4 +22,5 @@ Running `containership configure` with no arguments will step you through an aut
 containership configure
 ```
 
-You may also specify individual flags to the command in order to only set specific configuration elements. See (insertlink) for more details.
+You may also specify individual flags to the command in order to only set specific configuration elements. See \(insertlink\) for more details.
+
