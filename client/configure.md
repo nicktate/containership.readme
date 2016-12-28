@@ -19,7 +19,7 @@ The `containership configure` command configures your client for communication w
 containership configure set mycluster --api-url="http://localhost:8080"
 ```
 
-This will update your `~/.containership/cli-config.json` file to have the following cluster configuration:
+This will update your `~/.containership/cli-config-v2.json` file to have the following cluster configuration:
 
 ```
 {
