@@ -1,10 +1,11 @@
 # Commands
 
-* configure
-* plugin
-* machine
+* [configure](/client/configure.md)
+* cloud
 * app
 * host
+* plugin
+* machine
 * backup
 * update
 
