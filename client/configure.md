@@ -1,7 +1,7 @@
 # configure
 
 ```
-Usage: containership configure [OPTIONS]
+Usage: containership configure <command> [OPTIONS]
 
 Create a new container
 
@@ -26,4 +26,6 @@ This will update your `~/.containership/cli-config.json` file to have the follow
   "api-url": "http://localhost:8080"
 }
 ```
+
+
 
