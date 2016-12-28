@@ -30,7 +30,5 @@ This will display your `~/.containership/cli-config-v2.json` file::
 
 
 
-
-
-
+ 
 
