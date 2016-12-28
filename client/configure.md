@@ -11,13 +11,14 @@ The `containership configure` command displays your current client configuration
 ## Examples
 
 ```
-containership configure set mycluster --api-url="http://localhost:8080"
+containership configure
 ```
 
-This will update your `~/.containership/cli-config-v2.json` file to have the following cluster configuration:
+This will display your `~/.containership/cli-config-v2.json` file::
 
 ```
 {
+  "plugin-location": "~/.containership/plugins",
   "clusters": {
     "mycluster": {
       "api-url": "http://localhost:8080"
