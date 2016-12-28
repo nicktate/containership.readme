@@ -6,7 +6,7 @@
     * [2.1. Installation](client/installation.md)
     * [2.2. Commands](client/commands.md)
         * [2.2.1. configure](client/configure.md)
-        * 2.2.2. cloud
+        * [2.2.2. cloud](client/222-cloud.md)
         * [2.2.3. app](client/app.md)
         * 2.2.4. host
         * [2.2.5. plugin](client/plugin.md)
