@@ -7,17 +7,17 @@
 * [cloud logout](/client/cloud-logout.md)
 * [cloud org list](/client/cloud-org-list.md)
 * [cloud org show](/client/cloud-org-show.md)
-* cloud org use
-* cloud cluster list
-* cloud cluster show
-* cloud cluster use
-* app list
-* app show
-* app create
-* app edit
-* app delete
-* app scale-up
-* app scale-down
+* [cloud org use](/client/cloud-org-use.md)
+* [cloud cluster list](/client/cloud-cluster-list.md)
+* [cloud cluster show](/client/cloud-cluster-show.md)
+* [cloud cluster use](/client/cloud-cluster-use.md)
+* [app list](/client/app-list.md)
+* [app show](/client/app-show.md)
+* [app create](/client/app-create.md)
+* [app edit](/client/app-edit.md)
+* [app delete](/client/app-delete.md)
+* [app scale-up](/client/app-scale-up.md)
+* [app scale-down](/client/app-scale-down.md)
 
 
 
