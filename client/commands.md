@@ -2,7 +2,7 @@
 
 * [configure](/client/configure.md)
 * [configure set](/client/222-configure-set.md)
-* configure use
+* [configure use](/client/configure-use.md)
 * cloud login
 * cloud logout
 * cloud org list
