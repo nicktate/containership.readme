@@ -1,7 +1,17 @@
 # Commands
 
 * [configure](/client/configure.md)
+* configure set
+* configure use
 * [cloud](/client/222-cloud.md)
+* cloud login
+* cloud logout
+* cloud org list
+* cloud org show
+* cloud org use
+* cloud cluster list
+* cloud cluster show
+* cloud cluster use
 * [app](/client/app.md)
 * [host](/client/224-host.md)
 * [plugin](/client/plugin.md)
