@@ -11,7 +11,7 @@ Set the cli configuration and individual cluster configurations.
 --strict-ssl         Whether or not to force ssl on requests to the cluster
 ```
 
-The `containership configure set [cluster]` command will create a configuration object 
+The `containership configure set [cluster]` command will create a configuration object for the given cluster name \(Note, the name of the cluster argument is only used locally to decide which is the active cluster for the CLI to use\). Once a cluster has been configured and set as active, all CLI commands that interact with a ContainerShip cluster will use the configured cluster.
 
 ## Examples
 
