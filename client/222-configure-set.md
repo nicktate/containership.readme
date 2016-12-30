@@ -11,15 +11,15 @@ Set the cli configuration and individual cluster configurations.
 --strict-ssl         Whether or not to force ssl on requests to the cluster
 ```
 
-The `containership configure` command displays your current client configuration as well as any configured ContainerShip clusters.
+The `containership configure set [cluster]` command will create a configuration object 
 
 ## Examples
 
 ```
-containership configure
+containership configure set mycluster --api-url http://localhost:8080 --plugin-location ~/.containership/plugins
 ```
 
-This will display your `~/.containership/cli-config-v2.json` file::
+This will update your client configuration file at `~/.containership/cli-config-v2.json` to include the following:
 
 ```
 {
@@ -27,7 +27,8 @@ This will display your `~/.containership/cli-config-v2.json` file::
   "activeCluster": "mycluster",
   "clusters": {
     "mycluster": {
-      "api-url": "http://localhost:8080"
+      "api-url": "http://localhost:8080",
+      "api-version": "v1"
     }
   } 
 }
