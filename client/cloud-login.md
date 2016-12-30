@@ -1,12 +1,12 @@
 # cloud login
 
-```
-Usage: containership cloud login <scm>
+    Usage: containership cloud login <scm>
 
-Login with an `scm` that you have registered through ContainerShip Cloud.
-```
+    Login with an `scm` that you have registered through ContainerShip Cloud.
 
-The `containership configure use [cluster]` command will update the configuration configuration object by setting the \`activeCluster\` key to the provided cluster name. If that \`cluster\` configuration has not been created, \`configure use\` will throw an error.
+The supported \`scm\` arguments are currently \`github\` and \`bitbucket\`. 
+
+
 
 ## Examples
 
