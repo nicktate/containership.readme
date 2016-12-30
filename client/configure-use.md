@@ -1,4 +1,4 @@
-# configure set
+# configure use
 
 ```
 Usage: containership configure use [cluster]
