@@ -1,8 +1,10 @@
 {
     "plugins": [ "theme-api" ],
     "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
         "theme-api": {
-            "showLevel": true,
             "languages": [
                 {
                     "lang": "js",
