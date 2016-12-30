@@ -12,6 +12,7 @@ List details about the provided application running on your ContainerShip Cluste
 
 ```
 cscli app show redis
+
 KEY            VALUE
 engine         docker
 image          library/redis:3.0.3
@@ -22,8 +23,6 @@ network_mode   bridge
 discovery_port 10813
 container_port 6379
 ```
-
-
 
 ## 
 
