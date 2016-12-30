@@ -5,7 +5,7 @@ Usage: containership configure set [cluster]
 
 Set the cli configuration and individual cluster configurations.
 
---plugin-location Location 
+--plugin-location Local path to directory containing containership plugins for use in the CLI
 ```
 
 The `containership configure` command displays your current client configuration as well as any configured ContainerShip clusters.
