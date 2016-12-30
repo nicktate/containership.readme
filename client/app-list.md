@@ -12,13 +12,17 @@ Will list all the applications that are running on the configured cluster with s
 
 ```
 cscli app list
-ID                                   NAME              PROVIDER_NAME       CREATED_AT
-11111111-1111-1111-1111-111111111111 sample-cluster1   Packet              2016-12-20T11:53:43.335Z
-11111111-1111-1111-1111-111111111112 sample-cluster2   Amazon Web Services 2016-12-25T16:52:44.125Z
-11111111-1111-1111-1111-111111111113 sample-cluster3   Digital Ocean       2016-12-27T17:57:38.003Z
+ID                              IMAGE                                            COMMAND                       CPUS MEMORY CONTAINERS
+ntpd                            containership/ntp:latest                                                       0.1  16     1/1
+containership-logs              containership/docker-cs-logs:latest                                            0.1  64     1/1
+containership-prometheus        containership/docker-cs-prometheus-server:latest                               0.1  320    1/1
+containership-prometheus-agents containership/docker-cs-prometheus-agents:latest                               0.1  64     1/1
+service-discovery               containership/service-discovery:latest                                         0.1  64     1/1
+nicksapp                        containership/engine                                                           0.1  129    0/0
+redis                           library/redis:3.0.3                              redis-server --appendonly yes 0.25 64     1/1
 ```
 
-You can use one of the listed IDs in the \`[cloud cluster use](/client/cloud-cluster-use.md)\` command in order to set that as your active cluster. You may also find out more details about the cluster by running \`[cloud cluster show &lt;clusterId&gt;](/client/cloud-cluster-show.md)\`.
+To find out more details about an individual application, you can run \`[cscli app show &lt;appId&gt;](/client/app-show.md)\`.
 
 ## 
 
