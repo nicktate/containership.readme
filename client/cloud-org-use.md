@@ -6,7 +6,7 @@ Usage: cscli org use <orgId>
 Show details about the provided organization.
 ```
 
-The  cloud org show command will pull down additional metadata about the organization.
+The `containership cloud org use [orgId]`command will update the configuration  object by setting the \`cloud.activeOrganization\` key to the provided orgId. If that \`organization\` does not exist or if you do not have permissions to vie that organization, it will throw an error. 
 
 ### Examples
 
