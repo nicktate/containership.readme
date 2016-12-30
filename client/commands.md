@@ -13,6 +13,13 @@
 * cloud cluster show
 * cloud cluster use
 * [app](/client/app.md)
+* app list
+* app show
+* app create
+* app edit
+* app delete
+* app scale-up
+* app scale-down
 * [host](/client/224-host.md)
 * [plugin](/client/plugin.md)
 * [machine](/client/machine.md)
