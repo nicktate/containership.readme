@@ -3,10 +3,10 @@
 * [configure](/client/configure.md)
 * [configure set](/client/222-configure-set.md)
 * [configure use](/client/configure-use.md)
-* cloud login
-* cloud logout
-* cloud org list
-* cloud org show
+* [cloud login](/client/cloud-login.md)
+* [cloud logout](/client/cloud-logout.md)
+* [cloud org list](/client/cloud-org-list.md)
+* [cloud org show](/client/cloud-org-show.md)
 * cloud org use
 * cloud cluster list
 * cloud cluster show
