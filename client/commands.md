@@ -1,7 +1,7 @@
 # Commands
 
 * [configure](/client/configure.md)
-* configure set
+* [configure set](/client/222-configure-set.md)
 * configure use
 * cloud login
 * cloud logout
@@ -18,8 +18,6 @@
 * app delete
 * app scale-up
 * app scale-down
-
-
 
 
 

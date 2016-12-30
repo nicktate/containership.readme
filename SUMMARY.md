@@ -7,12 +7,20 @@
     * [Commands](client/commands.md)
         * [configure](client/configure.md)
         * [configure set](client/222-configure-set.md)
-        * [cloud](client/222-cloud.md)
         * [configure use](client/222-configure-use.md)
-        * [app](client/app.md)
-        * [host](client/224-host.md)
-        * [plugin](client/plugin.md)
-        * [machine](client/machine.md)
-        * [backup](client/backup.md)
-        * [update](client/update.md)
+        * cloud login
+        * cloud logout
+        * cloud org list
+        * cloud org show
+        * cloud org use
+        * [cloud cluster list](cloud-cluster-list.md)
+        * cloud cluster show
+        * [cloud cluster use](cloud-cluster-use.md)
+        * app list
+        * app show
+        * app create
+        * app edit
+        * app delete
+        * app scale-up
+        * app scale-down
 
