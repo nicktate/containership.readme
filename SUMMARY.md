@@ -6,7 +6,7 @@
     * [Installation](client/installation.md)
     * [Commands](client/commands.md)
         * [configure](client/configure.md)
-        * [configure set](client/222-configure-set.md)
+        * [configure set](client/configure-set.md)
         * [configure use](client/configure-use.md)
         * [cloud login](client/cloud-login.md)
         * [cloud logout](client/cloud-logout.md)
