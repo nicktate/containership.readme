@@ -2,6 +2,7 @@
     "plugins": [ "theme-api" ],
     "pluginsConfig": {
         "theme-api": {
+            "showLevel": true,
             "languages": [
                 {
                     "lang": "js",
