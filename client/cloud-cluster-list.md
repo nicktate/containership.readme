@@ -18,7 +18,7 @@ ID                                   NAME              PROVIDER_NAME       CREAT
 11111111-1111-1111-1111-111111111113 sample-cluster3   Digital Ocean       2016-12-27T17:57:38.003Z
 ```
 
-You can use one of the listed IDs in the \`[cloud cluster use](/client/cloud-org-use.md)\` command in order to set that as your active cluster. You may also find out more details about the cluster by running \`[cloud cluster show &lt;clusterId&gt;](/client/cloud-org-show.md)\`.
+You can use one of the listed IDs in the \`[cloud cluster use](/client/cloud-cluster-use.md)\` command in order to set that as your active cluster. You may also find out more details about the cluster by running \`[cloud cluster show &lt;clusterId&gt;](/client/cloud-cluster-show.md)\`.
 
 ## 
 
