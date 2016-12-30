@@ -12,13 +12,13 @@ Will list all clusters that belong to the `activeOrganization` that you have acc
 
 ```
 cscli cluster list
-ID                                   NAME      PROVIDER_NAME       CREATED_AT
-1c1f35e2-100d-45a4-bc01-a23d5056f827           Amazon Web Services
-78d3afda-aaa7-412c-842d-16ca2edb1b2d CliV2Test Digital Ocean       2016-12-25T16:52:44.125Z
-bfe1d564-261b-42dc-ab76-48a125130bae testing   Digital Ocean       2016-12-27T17:57:38.003Z
+ID                                   NAME              PROVIDER_NAME       CREATED_AT
+11111111-1111-1111-1111-111111111111 sample-cluster1   Packet              2016-12-20T11:53:43.335Z
+11111111-1111-1111-1111-111111111112 sample-cluster2   Amazon Web Services 2016-12-25T16:52:44.125Z
+11111111-1111-1111-1111-111111111113 sample-cluster3   Digital Ocean       2016-12-27T17:57:38.003Z
 ```
 
-You can use one of the listed IDs in the \`[cloud org use](/client/cloud-org-use.md)\` command in order to set that as your active organization. You may also find out more details about the organization by running \`[cloud org show &lt;orgId&gt;](/client/cloud-org-show.md)\`.
+You can use one of the listed IDs in the \`[cloud cluster use](/client/cloud-org-use.md)\` command in order to set that as your active cluster. You may also find out more details about the cluster by running \`[cloud cluster show &lt;clusterId&gt;](/client/cloud-org-show.md)\`.
 
 ## 
 
