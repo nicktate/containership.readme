@@ -11,7 +11,7 @@ List details about the provided host running on your ContainerShip Cluster.
 ## Examples
 
 ```
-cscli app show redis
+cscli app show 11111111-1111-1111-1111-111111111111
 
 KEY            VALUE
 engine         docker
