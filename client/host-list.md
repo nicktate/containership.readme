@@ -14,19 +14,11 @@ Will list all the hosts that are running on the configured cluster with some add
 cscli host list
 
 ID                                   NAME                                 START_TIME    MODE     CONTAINERS
-eae24991-68ac-41e8-bcee-314832e0c8f1 eae24991-68ac-41e8-bcee-314832e0c8f1 1482684983421 follower 5
-f1fb23ce-9b3d-4f60-8fbd-4c0393d66275 f1fb23ce-9b3d-4f60-8fbd-4c0393d66275 1482685053663 leader * 0
-ID                              IMAGE                                            COMMAND                       CPUS MEMORY CONTAINERS
-ntpd                            containership/ntp:latest                                                       0.1  16     1/1
-containership-logs              containership/docker-cs-logs:latest                                            0.1  64     1/1
-containership-prometheus        containership/docker-cs-prometheus-server:latest                               0.1  320    1/1
-containership-prometheus-agents containership/docker-cs-prometheus-agents:latest                               0.1  64     1/1
-service-discovery               containership/service-discovery:latest                                         0.1  64     1/1
-nicksapp                        containership/engine                                                           0.1  129    0/0
-redis                           library/redis:3.0.3                              redis-server --appendonly yes 0.25 64     1/1
+11111111-1111-1111-1111-111111111111 11111111-1111-1111-1111-111111111111 1482684983421 follower 5
+11111111-1111-1111-1111-111111111112 11111111-1111-1111-1111-111111111112 1482685053663 leader * 0
 ```
 
-To find out more details about an individual application, you can run \`[cscli app show &lt;appId&gt;](/client/app-show.md)\`.
+To find out more details about an individual application, you can run \`[cscli host show &lt;hostId&gt;](/client/host-show.md)\`.
 
 ## 
 
