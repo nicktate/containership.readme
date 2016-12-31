@@ -14,19 +14,9 @@ Edits an host with the specified `hostId` on your configured cluster. You can sp
 ## Examples
 
 ```
-cscli host edit 11111111-1111-1111-1111-111111111111
+cscli host edit 11111111-1111-1111-1111-111111111111 -t custom_tag_3=value3
 
- -p 7000
-
-KEY            VALUE
-engine         docker
-image          library/redis:3.0.3
-command        redis-server --appendonly yes
-cpus           0.25
-memory         64
-network_mode   bridge
-discovery_port 10813
-container_port 7000
+Succesfully updated the host tags!
 ```
 
 ## 
