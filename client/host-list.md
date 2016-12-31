@@ -12,6 +12,7 @@ Will list all the hosts that are running on the configured cluster with some add
 
 ```
 cscli host list
+
 ID                                   NAME                                 START_TIME    MODE     CONTAINERS
 eae24991-68ac-41e8-bcee-314832e0c8f1 eae24991-68ac-41e8-bcee-314832e0c8f1 1482684983421 follower 5
 f1fb23ce-9b3d-4f60-8fbd-4c0393d66275 f1fb23ce-9b3d-4f60-8fbd-4c0393d66275 1482685053663 leader * 0
