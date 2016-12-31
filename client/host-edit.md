@@ -14,7 +14,9 @@ Edits an host with the specified `hostId` on your configured cluster. You can sp
 ## Examples
 
 ```
-cscli host edit redis -p 7000
+cscli host edit 11111111-1111-1111-1111-111111111111
+
+ -p 7000
 
 KEY            VALUE
 engine         docker
