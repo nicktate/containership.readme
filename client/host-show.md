@@ -11,7 +11,7 @@ List details about the provided host running on your ContainerShip Cluster.
 ## Examples
 
 ```
-cscli app show 11111111-1111-1111-1111-111111111111
+cscli host show 11111111-1111-1111-1111-111111111111
 
 KEY              VALUE
 host_name        11111111-1111-1111-1111-111111111111
