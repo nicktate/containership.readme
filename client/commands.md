@@ -18,6 +18,7 @@
 * [app delete](/client/app-delete.md)
 * [app scale-up](/client/app-scale-up.md)
 * [app scale-down](/client/app-scale-down.md)
-
-
-
+* [host list](/client/host-list.md)
+* [host show](/client/host-show.md)
+* [host edit](/client/host-edit.md)
+* [host delete](/client/host-delete.md)
