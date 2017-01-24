@@ -35,7 +35,7 @@
 
 * Click "Edit Team" on the team you would like to modify
 
-![Edit Team](Screen Shot 2016-11-21 at 08.16.32.png)
+![](/assets/edit_team.png)
 
 * Click the "Delete Team" button to delete the specified team
 
