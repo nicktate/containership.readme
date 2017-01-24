@@ -31,7 +31,7 @@
   * [Organizations](cloud-dashboard/organizations.md)
     * [Create](cloud-dashboard/organizations/create.md)
     * [Manage Users](cloud-dashboard/organizations/manage-users.md)
-    * Manage Teams
+    * [Manage Teams](cloud-dashboard/organizations/manage-teams.md)
     * Update
     * Delete
 
