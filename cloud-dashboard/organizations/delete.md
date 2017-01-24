@@ -5,6 +5,8 @@ Click on "Organizations"
 
 Click on the "Delete Organization" button
 
+![](/assets/org_deletion.png)
+
 Confirm your decision by clicking "Confirm Delete" in the modal.  
 Warning: this action cannot be undone!
 
