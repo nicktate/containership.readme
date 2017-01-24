@@ -19,7 +19,7 @@
 ## Updating Teams
 
 * Click "Edit Team" on the team you would like to modify  
-  ![Edit Team](Screen Shot 2016-11-21 at 08.16.32.png)
+  ![](/assets/import.png)
 
 * Use the "Update Team" button to change the name or description
 
