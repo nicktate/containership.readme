@@ -39,5 +39,5 @@
 
 * Click the "Delete Team" button to delete the specified team
 
-![Remove Team](Screen Shot 2016-11-21 at 08.16.10.png)
+![](/assets/delete_team.png)
 
