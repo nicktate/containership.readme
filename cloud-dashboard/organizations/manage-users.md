@@ -6,16 +6,19 @@
 
 * Click on "Organizations"
 
-![Go to organization](Screen Shot 2016-11-21 at 07.46.59.png)
+![](/assets/user_menu.png)
 
 * Navigate to the "Users" tab
 
 ## Adding Users
+
 * Choose account type, and fill out username and email in the "Invite Users" box, and click "Add User"
 
-![Invite User](Screen Shot 2016-11-21 at 08.13.39.png)
+![](/assets/add_user.png)
 
 ## Removing Users
+
 * Click the "Remove User" button next to the user you would like to remove
 
-![Remove User](Screen Shot 2016-11-21 at 08.16.55.png)
+![](/assets/remove_user.png)
+
