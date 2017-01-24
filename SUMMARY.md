@@ -34,4 +34,5 @@
     * [Manage Teams](cloud-dashboard/organizations/manage-teams.md)
     * [Update](cloud-dashboard/organizations/update.md)
     * [Delete](cloud-dashboard/organizations/delete.md)
+  * [Providers](cloud-dashboard/providers.md)
 
