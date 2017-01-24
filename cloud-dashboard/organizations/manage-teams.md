@@ -25,7 +25,7 @@
 
 * Use the "Add User" button to add a specific user to this team
 
-![Update Team Settings](Screen Shot 2016-11-21 at 08.15.22.png)
+![](/assets/user_addition.png)
 
 * Use the "Remove User" button to remove a user from this team
 
