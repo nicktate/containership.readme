@@ -6,14 +6,15 @@
 
 * Click on "Organizations"
 
-![Go to organization](Screen Shot 2016-11-21 at 07.46.59.png)
+![](/assets/user_tab.png)
+
 * Navigate to the "Billing" tab
 
 * Update your plan and support subscriptions
 
-![Update Subscriptions](Screen Shot 2016-11-21 at 07.48.54.png)
+![](/assets/update_plan.png)
 
 * Update your credit card information
 
-![Update credit card](Screen Shot 2016-11-21 at 07.49.07.png)
+![](/assets/update_cc.png)
 
