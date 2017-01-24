@@ -29,7 +29,7 @@
 
 * Use the "Remove User" button to remove a user from this team
 
-![Update Team Settings](Screen Shot 2016-11-21 at 08.16.10.png)
+![](/assets/user_remove.png)
 
 ## Removing Teams
 
